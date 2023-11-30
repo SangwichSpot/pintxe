@@ -1,1 +1,1 @@
-[![](./res/pintxe-bow.jpg)](mailto:feedback@sangwichspot.com)
+[![](./res/pintxe-bow.png)](mailto:feedback@sangwichspot.com)
